@@ -1,3 +1,2 @@
-# one_button
-
-gitHub Pagesのテスト用です
+# github test
+gitHub Pages & release test
